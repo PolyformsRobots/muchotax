@@ -1,11 +1,11 @@
 {
-  "name": "taxo",
+  "name": "robotax",
   "version": "1.0.0",
   "description": "Taxo Mucho Robo",
-  "main": "index.js",
+  "main": "robotax.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node robotax.js"
   },
   "author": "",
   "license": "ISC",
